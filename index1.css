@@ -112,7 +112,7 @@ color: blue;
 .arrow-icon {
     position:fixed;
     bottom: 100px;
-    left: 90px;
+    left: 270px;
     width: 80px;
     height: 80px;
 }
@@ -120,7 +120,7 @@ color: blue;
 .person-icon {
     position: fixed;
     bottom: 50px;
-    left: 150px;
+    left: 350px;
     width: 110px;
     height: 80px;
 }
